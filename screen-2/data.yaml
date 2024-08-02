@@ -1,0 +1,13 @@
+names:
+- offscreen
+- onscreen
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: screen-7i6h8
+  url: https://universe.roboflow.com/pavement-wwadi/screen-7i6h8/dataset/2
+  version: 2
+  workspace: pavement-wwadi
+test: /GAMA/screen-2/test/images
+train: /GAMA/screen-2//train/images
+val: /GAMA/screen-2//valid/images
